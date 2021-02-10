@@ -1,6 +1,13 @@
 # Chicago-Crime-Rate-
 This file deals with Chicago crime rate data as part of machine learning course
 
+## CSV FILE CAME FROM KAGGLE:
+
+https://www.kaggle.com/currie32/crimes-in-chicago?select=Chicago_Crimes_2005_to_2007.csv
+
+Get the CSV File from here
+
+
 <img width="737" alt="Screen Shot 2021-02-09 at 8 42 41 PM" src="https://user-images.githubusercontent.com/60979174/107452595-7f5aa980-6b17-11eb-9f42-d49ad592fd6e.png">
 
 
